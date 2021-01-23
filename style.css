@@ -1,0 +1,84 @@
+body {
+    font-family: fantasy;
+    background-color: rgb(251, 238, 238);}
+#social-network {
+    background-color: rgb(234, 180, 198);
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 34px;}
+#fb {
+    overflow:hidden ;
+    position: absolute;
+    height: 25px;
+    top: 4.5px;
+    left:2.5px;}
+#inst {
+    overflow:hidden ;
+    position: absolute;
+    height: 25px;
+    top: 4.5px;
+    left:38px;}
+#twit {
+    overflow:hidden ;
+    position: absolute;
+    height: 25px;
+    top: 4.5px;
+    left:73.5px;}
+#client {
+    font-variant: small-caps;
+    font-size: larger;
+    padding-top: 3px;
+    padding-right: 3px;
+    text-decoration: none;
+    overflow: hidden;
+    position: absolute;
+    top: 2px;
+    right: 10px;}
+#catalogue {
+    font-variant: small-caps;
+    background-color: rgb(251, 238, 238);
+    overflow: hidden;
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    width: 100%;
+    height: 60px;}
+#catalogue-aubergine {z-index: 1;
+    overflow: hidden;
+    position: absolute;
+    top: 24px;
+    left: 20%;}
+#catalogue-auberginette {
+    overflow: hidden;
+    position: absolute;
+    top: 24px;
+    left: 26%;}
+#catalogue-bondage {
+    overflow: hidden;
+    position: absolute;
+    top: 24px;
+    left: 33%;}
+#catalogue-demonstration {
+    overflow: hidden;
+    position: absolute;
+    top: 24px;
+    left: 38.5%;}
+#banner {
+    background-image: url(ressources/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow:hidden;
+    position: absolute;
+    top: 94px;
+    left: 0px;
+    width: 100%;
+    height: 400px;
+    filter: blur(0px);}
+#pop {
+    font-variant: small-caps;
+    position: absolute;
+    top: 500px;
+    left: 47%;}
