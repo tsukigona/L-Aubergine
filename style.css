@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Hachi Maru Pop', cursive;
+    font-family: 'Comfortaa', cursive;
     background-color: burlywood;
 }
 a {
@@ -54,9 +54,6 @@ div#menu #shop {
 #banner {
     width: 100%;
 }
-
-
-
 #pop {
     text-align: center;
 }
@@ -65,7 +62,7 @@ div#menu #shop {
 
 .article {
     background-color: wheat;
-    width:15%;
+    width:250px;
     padding:10px;
 }
 .article p {
@@ -78,7 +75,8 @@ div#menu #shop {
     padding-bottom: 5px;
 }
 .article img{
-    width: 100%;
+    width: 250px;
+    
     border: 1px solid black;
 }
 
