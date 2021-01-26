@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Comfortaa', cursive;
-    background-color: burlywood;
+    background-color: #F5D6DF;
 }
 a {
     text-decoration: none;
@@ -13,7 +13,7 @@ a {
 
 
 div#social-network {
-    background-color: wheat;
+    background-color: #EFB9C9;
     height: 32px;
     padding: 5px 0 5px 5px;
 }
@@ -32,7 +32,7 @@ div#social-network a img {
 
 
 div#menu {
-    background-color: rgba(62, 6, 114, 0.425);
+    background-color: #D47491;
 }
 div#menu ul {
     margin: 0;    
@@ -61,7 +61,7 @@ div#menu #shop {
 
 
 .article {
-    background-color: wheat;
+    background-color: #EFB9C9;
     width:250px;
     padding:10px;
 }
@@ -76,7 +76,6 @@ div#menu #shop {
 }
 .article img{
     width: 250px;
-    
     border: 1px solid black;
 }
 
