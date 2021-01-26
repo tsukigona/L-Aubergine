@@ -7,3 +7,5 @@ Merci à DrDashy et Manu V.
 
 <br> <br> <br>
 A regarder : utilisation de "bootstrap"
+<br>
+Ordre : Javascript -> vuejs
